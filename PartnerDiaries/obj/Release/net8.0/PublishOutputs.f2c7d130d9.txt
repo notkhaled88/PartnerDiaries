@@ -1,0 +1,7 @@
+C:\Users\kismail\Documents\C#\WebAppProjects\PartnerDiaries\out\PartnerDiaries.exe
+C:\Users\kismail\Documents\C#\WebAppProjects\PartnerDiaries\out\appsettings.Development.json
+C:\Users\kismail\Documents\C#\WebAppProjects\PartnerDiaries\out\appsettings.json
+C:\Users\kismail\Documents\C#\WebAppProjects\PartnerDiaries\out\PartnerDiaries.dll
+C:\Users\kismail\Documents\C#\WebAppProjects\PartnerDiaries\out\PartnerDiaries.deps.json
+C:\Users\kismail\Documents\C#\WebAppProjects\PartnerDiaries\out\PartnerDiaries.runtimeconfig.json
+C:\Users\kismail\Documents\C#\WebAppProjects\PartnerDiaries\out\PartnerDiaries.pdb
